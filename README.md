@@ -10,7 +10,6 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 ## 📌 Participantes
 
 0. 🚀 **Belman Marin Franco**
-
 1. 😭 **Dayvid Alexaner Ruiz Hernandez**
 2. 🐨**Nikol Vannesa Castañeda Carrillo**
 3. ✌️**Johan Gonzalo Garcia Walteros**
